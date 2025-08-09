@@ -48,8 +48,9 @@ Example:
 | Security       | Spring Security + JWT     |
 | Database       |  PostgreSQL               |
 | Frontend       | React.js                  |
-| Build Tool     | Maven                     |
+| Build Tool     | Maven , Docker            |
 | Authentication | Token-based (JWT)         |
+
 
 ---
 
